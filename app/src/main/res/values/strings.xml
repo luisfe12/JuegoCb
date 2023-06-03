@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">juegoCaballos</string>
+
+    <string name="title">HorseChallenge</string>
+    <string name="level">Level</string>
+    <string name="moves">Moves</string>
+    <string name="times">Times</string>
+    <string name="lives">Lives</string>
+    <string name="options">Options</string>
+    <string name="Instructions">Mueve el caballos sobre la pantalla para completar las celdas</string>
+    <string name="Credits">Juego practico y guiado por el Profe de Udemy Jota</string>
+
+    <string name="premium">Optener el premium para obtenr cosas ilimitadas</string>
+    <string name="premium_title">Opten el premium de por vida</string>
+    <string name="premiumBenefict1">No more ads</string>
+    <string name="premiumBenefict2">Umlimited lives</string>
+    <string name="premiumBenefict3">Keep your  reached level</string>
+    <string name="pay">Pay only 2$ now</string>
+</resources>
